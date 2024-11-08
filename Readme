@@ -1,0 +1,27 @@
+Expensify - Expense and Budget Management Application
+Overview
+Expensify is a comprehensive application designed to help users manage their expenses and budgets effectively. It provides tools for tracking expenses, setting budgets for specific periods, and receiving notifications when spending exceeds set limits. Additionally, users can earn rewards for staying within their budgetary goals.
+
+Features
+User Authentication:
+
+Secure login and signup functionality.
+Budget Management:
+
+Set budgets for specific time periods (weekly, monthly).
+Modify budgets as necessary based on financial goals.
+Expense Tracking:
+
+Easily add, categorize, and manage expenses.
+View detailed reports on spending over selected periods.
+Alerts and Notifications:
+
+Receive alerts when spending exceeds the budget limit.
+Reward System:
+
+Earn points for meeting budgeting targets.
+Points can be redeemed for discounts or benefits.
+Technologies Used
+Frontend: Java Swing for creating the user interface.
+Backend: Java for handling application logic and data processing.
+Version Control: Git and GitHub for version management.
